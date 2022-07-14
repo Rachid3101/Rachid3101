@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rachid3101
+- 👋 Hi, I’m @Rachid
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning PowerShell 
 - 📫 How to reach me rachid22@gmail.com
